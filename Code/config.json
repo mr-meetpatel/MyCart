@@ -1,0 +1,8 @@
+{
+  "params": {
+    "host":"localhost",
+    "username": "root",
+    "password": "",
+    "database": "mycart"
+  }
+}
